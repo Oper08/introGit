@@ -1,3 +1,3 @@
-console.log("Салем JavaScript алеми!");
-
-                
+const name = "Anuar"
+name = "Ailuna"
+console.log("police:" + name); 
